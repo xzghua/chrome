@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "叶落山城秋",
+    "version": "1.0",
+    "description": "叶落山城秋Chrome扩展",
+    "icons": {
+        "16": "image/logo.png",
+        "48": "image/logo.png",
+        "128": "image/logo.png"
+    },
+    "browser_action": {
+        "default_icon": {
+            "19": "image/logo.png",
+            "38": "image/logo.png"
+        },
+        "default_title": "叶落山城秋",
+        "default_popup": "http://wwww.iphpt.com"
+    }
+
+}
